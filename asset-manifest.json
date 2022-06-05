@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/static/js/main.fe3b9f75.js",
-    "static/js/787.1fb25dfd.chunk.js": "/static/js/787.1fb25dfd.chunk.js",
-    "static/media/icon-karma.svg": "/static/media/icon-karma.24e0debeb1e51eaa14e295270e33df54.svg",
-    "static/media/icon-supervisor.svg": "/static/media/icon-supervisor.2dd10a2df2ddca34f77ca6a2065c6be2.svg",
-    "static/media/icon-team-builder.svg": "/static/media/icon-team-builder.b885fb580a3cb78c9ad249750dd65a01.svg",
-    "static/media/icon-calculator.svg": "/static/media/icon-calculator.21bc9adc97d084a64aedb386f1e35c0d.svg",
-    "index.html": "/index.html",
-    "main.fe3b9f75.js.map": "/static/js/main.fe3b9f75.js.map",
-    "787.1fb25dfd.chunk.js.map": "/static/js/787.1fb25dfd.chunk.js.map"
+    "main.js": "/fm-card-feature/static/js/main.f1fa5e30.js",
+    "static/js/787.1fb25dfd.chunk.js": "/fm-card-feature/static/js/787.1fb25dfd.chunk.js",
+    "static/media/icon-karma.svg": "/fm-card-feature/static/media/icon-karma.24e0debeb1e51eaa14e295270e33df54.svg",
+    "static/media/icon-supervisor.svg": "/fm-card-feature/static/media/icon-supervisor.2dd10a2df2ddca34f77ca6a2065c6be2.svg",
+    "static/media/icon-team-builder.svg": "/fm-card-feature/static/media/icon-team-builder.b885fb580a3cb78c9ad249750dd65a01.svg",
+    "static/media/icon-calculator.svg": "/fm-card-feature/static/media/icon-calculator.21bc9adc97d084a64aedb386f1e35c0d.svg",
+    "index.html": "/fm-card-feature/index.html",
+    "main.f1fa5e30.js.map": "/fm-card-feature/static/js/main.f1fa5e30.js.map",
+    "787.1fb25dfd.chunk.js.map": "/fm-card-feature/static/js/787.1fb25dfd.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.fe3b9f75.js"
+    "static/js/main.f1fa5e30.js"
   ]
 }
